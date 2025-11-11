@@ -1,0 +1,7 @@
+Arguments used for this output:
+Max-age filter, 20
+Input-stream, people-with-age.csv
+Output-stream, output.csv
+
+Nuvi Våle, 18
+Veski Ruañ, 12
